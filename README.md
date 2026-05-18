@@ -13,7 +13,7 @@ Copy
 <!-- Profile views + social badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=tanisha725&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views" />
-  <a href="https://linkedin.com/in/tanishasinha">
+  <a href="https://www.linkedin.com/in/tanisha-sinha-34b815219/">
     <img src="https://img.shields.io/badge/LinkedIn-tanishasinha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tanisha.2cse@bmu.edu.in">

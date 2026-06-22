@@ -120,8 +120,6 @@ Goal:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanisha725&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha725&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=tanisha725&theme=tokyonight&hide_border=true"/>

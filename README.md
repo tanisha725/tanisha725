@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,50:8A2BE2,100:FF69B4&text=Tanisha%20Sinha&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Java%20Developer%20%7C%20NLP&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Student;Java+Developer+%7C+DSA+Enthusiast;Machine+Learning+%7C+NLP+%7C+Generative+AI;Building+Projects+That+Solve+Real+Problems;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Student;Java+Developer+%7C+DSA+%26+Open+Source+Enthusiast;Machine+Learning+%7C+NLP+%7C+Generative+AI;Building+Projects+That+Solve+Real+Problems;Daily+Coding+%7C+Learning+%7C+Growing;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
 
 <br>
 
@@ -118,7 +118,9 @@ Goal:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanisha725&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanisha725&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha725&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
@@ -128,14 +130,41 @@ Goal:
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha725&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha725&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
+---
+
+# 🚀 DSA & Open Source Journey
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanisha725&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💻 Current Focus
+
+🔥 Daily Data Structures & Algorithms Practice
+
+🚀 Building a Strong DSA-Java Repository
+
+🤖 Machine Learning, NLP & Generative AI
+
+🌱 Open Source Contributions
+
+📚 Consistent Learning & Problem Solving
+
+</div>
 ---
 
 # 🐍 Contribution Snake

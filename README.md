@@ -1,208 +1,247 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,50:8A2BE2,100:FF69B4&text=Tanisha%20Sinha&fontSize=75&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Java%20Developer%20%7C%20NLP&descAlignY=60"/>
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/hero.svg" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=1000&lines=AI+%26+Data+Science+Student;Java+Developer+%7C+DSA+%26+Open+Source+Enthusiast;Machine+Learning+%7C+NLP+%7C+Generative+AI;Building+Projects+That+Solve+Real+Problems;Daily+Coding+%7C+Learning+%7C+Growing;Turning+Ideas+Into+Products)](https://git.io/typing-svg)
+<br/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=tanisha725&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/tanisha-sinha-34b815219/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Tanisha725/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:tanisha.2cse@bmu.edu.in">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tanisha725">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/tanisha-sinha-34b815219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tanisha.23cse@bmu.edu.in"><img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/tanisha725/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://github.com/tanisha725"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-# 👋 About Me
+```bash
+$ INITIALIZING TANISHA.EXE...
+> Loading engineering stack .......... [ Java · Python · TypeScript ]
+> Loading AI systems ................ [ NLP · Scikit-learn · XGBoost ]
+> Loading DSA core ................... [ Arrays · Two Pointers · Greedy · SQL ]
+> Loading current build .............. [ Quantia — Multi-Agent Finance Platform ]
+> SYSTEM READY.
+```
+
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
+
+## About Me
 
 I'm **Tanisha Sinha**, a B.Tech student in **Artificial Intelligence & Data Science** at **BML Munjal University**.
 
-💡 Passionate about building intelligent software using **Java, Machine Learning, NLP, and Generative AI**.
+I build software where machine learning meets real engineering — from bias-detection models trained on bilingual text to a Java-first grind through data structures and algorithms. I care about **why** a model gets something wrong as much as **whether** it gets it right, and I like shipping things that are actually usable, not just notebooks that run once.
 
-🚀 Currently focused on:
+Right now I'm deep in NLP/Generative AI, multi-agent AI systems, and full-stack development, while keeping a daily DSA practice going in parallel.
 
-- Data Structures & Algorithms
-- Java Development
-- Machine Learning
-- NLP & Generative AI
-- Full Stack Development
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
 
----
+## Developer Dashboard
 
-# 🚀 Current Mission
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-```yaml
-Focus:
-  - Data Structures & Algorithms
-  - Machine Learning
-  - NLP
-  - Generative AI
-  - Full Stack Development
+### 🚧 Currently Building
+**Quantia** — a multi-agent financial intelligence platform (`AI_AGENTS_FINANCE`), exploring how multiple coordinated AI agents can reason over financial data.
 
-Goal:
-  Build intelligent software that solves real-world problems.
+### 📚 Currently Learning
+Generative AI systems, multi-agent architectures, and advanced Java — layered on top of a daily DSA habit.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Focus Areas
+NLP · Bias-aware ML · Generative AI · Full-stack (React/TS) · Data Structures & Algorithms
+
+### 🌱 Open Source
+Contributor to **ACM.BMU Hacktoberfest** — community C++ contributions during Hacktoberfest.
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
+
+## Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,cpp&theme=dark" />
+
+**AI / Machine Learning / NLP**
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1a73e8?style=flat-square&logo=xgboost&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20Logistic%20Regression-6f42c1?style=flat-square)
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
+
+**Tools & Environments**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
+
+## Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+> ### 🧠 Gender Bias Analysis in NLP
+> ![Status](https://img.shields.io/badge/STATUS-COMPLETE-22D3EE?style=flat-square&labelColor=0d1117)
+>
+> Detects and analyzes gender bias in **bilingual text datasets** using TF-IDF feature extraction and Logistic Regression, evaluated with statistical bias analysis.
+>
+> **Result:** 92.49% accuracy · 92.39% F1-score
+>
+> `Python` `Scikit-learn` `NLP` `Pandas` `Matplotlib`
+>
+> [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tanisha725/gender-bias-analysis-nlp)
+
+</td>
+<td width="50%" valign="top">
+
+> ### 🎬 IMDb Movie Analysis & Rating Prediction
+> ![Status](https://img.shields.io/badge/STATUS-COMPLETE-22D3EE?style=flat-square&labelColor=0d1117)
+>
+> Exploratory data analysis and rating prediction on IMDb movie data, comparing **Decision Tree, Random Forest, KNN, and XGBoost** regressors to model audience ratings.
+>
+> `Python` `Scikit-learn` `XGBoost` `Seaborn`
+>
+> [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tanisha725/imdb-movie-analysis)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> ### ⚛️ Debounced Async Search (React + TS)
+> ![Status](https://img.shields.io/badge/STATUS-COMPLETE-22D3EE?style=flat-square&labelColor=0d1117)
+>
+> A frontend engineering exercise implementing **debounced search, stale-response prevention, and async state management** from scratch in React + TypeScript.
+>
+> `React` `TypeScript` `Vite` `Tailwind CSS`
+>
+> [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tanisha725/fe-internship-may-26)
+
+</td>
+<td width="50%" valign="top">
+
+> ### 🤖 Quantia — Multi-Agent Financial Intelligence
+> ![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-A855F7?style=flat-square&labelColor=0d1117)
+>
+> An in-progress multi-agent AI platform for financial intelligence. Actively building — architecture and code landing soon.
+>
+> `AI Agents` `Python` `In Progress`
+>
+> [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tanisha725/AI_AGENTS_FINANCE)
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
+
+## DSA Journey
+
+Daily Data Structures & Algorithms practice in Java — [`DSA-Java`](https://github.com/tanisha725/DSA-Java), organized by topic and growing with every solve.
+
+`Arrays` `Strings` `Two Pointers` `Greedy` `Sorting Algorithms` `Binary Search` `HashMap` `SQL`
+
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tanisha725&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=22D3EE&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha725&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com?user=tanisha725&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
+
+## The Code Trail
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanisha725/tanisha725/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanisha725/tanisha725/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/tanisha725/tanisha725/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> Generated automatically by the `snake.yml` workflow in this repo — see setup instructions below.
+
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
+
+## Problem Solving
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/tanisha725?theme=dark&font=Karla&ext=heatmap" />
+
+</div>
+
+Actively solving on [LeetCode](https://leetcode.com/u/tanisha725/) alongside topic-wise practice in [`DSA-Java`](https://github.com/tanisha725/DSA-Java).
+
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
+
+## Currently Learning
+
+| Area | Signal | Status |
+|---|---|---|
+| Generative AI & Multi-Agent Systems | `███████░░░` | ![In Progress](https://img.shields.io/badge/-IN_PROGRESS-A855F7?style=flat-square&labelColor=0d1117) building Quantia |
+| Advanced Java | `██████░░░░` | ![In Progress](https://img.shields.io/badge/-IN_PROGRESS-A855F7?style=flat-square&labelColor=0d1117) |
+| Data Structures & Algorithms | `████████░░` | ![Ongoing](https://img.shields.io/badge/-DAILY-22D3EE?style=flat-square&labelColor=0d1117) |
+| Full-Stack Development (React/TS) | `██████░░░░` | ![In Progress](https://img.shields.io/badge/-IN_PROGRESS-A855F7?style=flat-square&labelColor=0d1117) |
+
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
+
+## Terminal
+
+```bash
+$ whoami
+Tanisha Sinha — B.Tech AI & Data Science, BML Munjal University
+
+$ focus
+NLP + Generative AI + Software Engineering + DSA
+
+$ currently_building
+Quantia — Multi-Agent Financial Intelligence Platform
+
+$ goal
+Build intelligent software that solves real-world problems.
 ```
 
----
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
 
-# 💻 Tech Stack
+## Beyond the Code
 
-### Languages
+Outside of models and algorithms, I'm curious about *why* systems fail the people they weren't designed for — it's what drew me to bias-aware NLP in the first place. I like taking a project from a rough idea to something that actually runs, and I'm still figuring out the parts of engineering that don't show up in a notebook: naming things well, writing docs someone else can follow, and building for a real user instead of a grading rubric.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql"/>
-</p>
+<img src="https://raw.githubusercontent.com/tanisha725/tanisha725/main/assets/divider.svg" width="100%"/>
 
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git,github,vscode"/>
-</p>
-
-### AI & Data Science
-
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|------------|
-| 🧠 Gender Bias Analysis in NLP | Machine Learning and NLP project for gender bias detection using TF-IDF and Logistic Regression |
-| 🎬 IMDb Movie Analysis | Exploratory Data Analysis and Rating Prediction using Python and Machine Learning |
-| 🤖 HireSmart AI | AI-powered recruitment assistant for resume analysis and candidate screening |
-| 🌍 Travel Platform | Full-stack travel platform developed during internship experience |
-| ⚛️ Frontend Search Assignment | React + TypeScript project implementing debounced search and async state management |
-
----
-
-# 🏆 LeetCode Journey
+## Connect With Me
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Tanisha725/">
+<a href="https://www.linkedin.com/in/tanisha-sinha-34b815219/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:tanisha.23cse@bmu.edu.in"><img src="https://img.shields.io/badge/Say_Hello-A855F7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://leetcard.jacoblin.cool/Tanisha725?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+<br/><br/>
 
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanisha725&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tanisha725&theme=tokyonight&hide_border=true"/>
+**✨ Building intelligent software, one commit at a time.**
 
 </div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanisha725&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-# 🚀 DSA & Open Source Journey
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanisha725&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💻 Current Focus
-
-🔥 Daily Data Structures & Algorithms Practice
-
-🚀 Building a Strong DSA-Java Repository
-
-🤖 Machine Learning, NLP & Generative AI
-
-🌱 Open Source Contributions
-
-📚 Consistent Learning & Problem Solving
-
-</div>
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/tanisha-sinha-34b815219/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tanisha.2cse@bmu.edu.in">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/Tanisha725/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/tanisha725">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Building intelligent software, one commit at a time.
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF69B4,50:8A2BE2,100:6C63FF&section=footer"/>
